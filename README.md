@@ -6,7 +6,7 @@ Ce dépôt contient une implémentation pédagogique du **Bacterial Foraging Opt
 - `bfo_main.py` : point d'entrée pour exécuter l'algorithme BFO.
 - `objective_functions.py` : fonctions benchmark (Sphere, Rastrigin, Rosenbrock, Ackley).
 - `visualization.py` : utilitaires pour tracer l'évolution de la fitness et positions 2D.
-- `results/` : dossier généré contenant les graphiques (fitness_history.png, positions_2d.png).
+- fitness_history.png, positions_2d.png sont les resultats .
 
 ## Prérequis
 - Python 3.8+
@@ -15,3 +15,4 @@ Ce dépôt contient une implémentation pédagogique du **Bacterial Foraging Opt
 Installez les dépendances (recommandé dans un venv) :
 ```bash
 pip install numpy matplotlib
+
